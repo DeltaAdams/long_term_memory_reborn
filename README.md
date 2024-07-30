@@ -2,6 +2,7 @@
 
 NOTICE: [This extension is now back in active development. (>^o^)><(^o^<)]
 
+## Currently Compatible with WebUI 07/30/2024
 
 Welcome to the new experimental repository for the long-term memory (LTM) extension for oobabooga's Text Generation Web UI. The goal of the LTM extension is to enable the chatbot to "remember" conversations long-term. Please note that this is an early-stage experimental project, and perfect results should not be expected. This project has been tested on Ubuntu LTS 22.04. Other people have tested it successfully on Windows. Compatibility with macOS is unknown.
 
